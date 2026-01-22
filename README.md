@@ -46,6 +46,10 @@ The redesign maintains WhatsApp’s familiar layout while introducing better spa
 ##  Outcome
 The redesigned interface improves scannability, reduces cognitive load, and ensures important chats are easily discoverable while preserving WhatsApp’s familiar user experience.
 
+
+##  Figma Design
+https://www.figma.com/design/38bHxZzVs886hxs3ZtHX4k/Untitled?node-id=1-2058&t=OtM73WnNoh8Ze2is-1
+
 ---
 
 
